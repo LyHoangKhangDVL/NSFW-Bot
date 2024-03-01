@@ -1,8 +1,8 @@
 {
-  "prefix": "your prefix",
-  "token": "your token",
-  "owners": ["OWNER ID"],
-  "footer": "NSFW Bot • is.gd/nsfwbot",
+  "prefix": "!",
+  "token": "MTIwNDA5NTkzNjkyNjg1MTEzMg.GDhqto.lTbkB2PK51QCPJv-60qGWcXE_mpZEs_mMixR_s",
+  "owners": ["1053871662283628615"],
+  "footer": "Owner: Ly Hoang Khang",
 
   "msg": {
     "nsfwWarn": "You must use this command in an nsfw channel!",
